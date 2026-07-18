@@ -2,8 +2,8 @@ name: BMS Ticket Checker
 
 on:
   schedule:
-    # Every 10 minutes - scheduler refresh
-    - cron: '*/10 * * * *'
+    # TEST: every minute
+    - cron: '* * * * *'
   workflow_dispatch:
 
 concurrency:
