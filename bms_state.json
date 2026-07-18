@@ -32,6 +32,22 @@
       "price": "61.74",
       "status": "3"
     },
+    "PCAN|41725|20260720|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41725|20260720|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PVHR|39295|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "12:00 PM",
@@ -127,6 +143,22 @@
       "cat": "PREMIERE",
       "price": "66.74",
       "status": "2"
+    },
+    "PABC|20247|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20247|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
     }
   },
   "dates": {
