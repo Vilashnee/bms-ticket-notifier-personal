@@ -30,7 +30,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PCAN|41563|20260720|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -144,230 +144,6 @@
       "price": "61.74",
       "status": "2"
     },
-    "PABC|20257|20260720|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "11:45 AM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PABC|20257|20260720|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "11:45 AM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PABC|20258|20260720|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:25 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PABC|20258|20260720|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:25 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PABC|20247|20260720|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "06:20 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PABC|20247|20260720|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "06:20 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "INTO|87909|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87909|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87859|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "12:05 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87859|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "12:05 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87910|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87910|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87860|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:40 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87860|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:40 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PGMV|20744|20260720|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "12:00 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGMV|20744|20260720|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "12:00 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PGMV|20692|20260720|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGMV|20692|20260720|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PGMV|20746|20260720|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "06:45 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGMV|20746|20260720|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "06:45 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PBRM|22301|20260720|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "03:05 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PBRM|22301|20260720|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "03:05 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PBRM|22302|20260720|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PBRM|22302|20260720|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "FMCN|103427|20260720|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "12:10 PM",
-      "date": "20260720",
-      "cat": "SILVER",
-      "price": "210.98",
-      "status": "3"
-    },
-    "FMCN|103427|20260720|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "12:10 PM",
-      "date": "20260720",
-      "cat": "PREMIERE",
-      "price": "66.74",
-      "status": "2"
-    },
-    "FMCN|103429|20260720|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "06:35 PM",
-      "date": "20260720",
-      "cat": "SILVER",
-      "price": "210.98",
-      "status": "3"
-    },
-    "FMCN|103429|20260720|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "06:35 PM",
-      "date": "20260720",
-      "cat": "PREMIERE",
-      "price": "66.74",
-      "status": "2"
-    },
     "PVES|31697|20260720|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "11:50 AM",
@@ -447,6 +223,166 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
+    },
+    "INTO|87909|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87909|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87859|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87859|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87910|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87910|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87860|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87860|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PABC|20257|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "11:45 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20257|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "11:45 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PABC|20258|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:25 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20258|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:25 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PABC|20247|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20247|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20744|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20744|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20692|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20692|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20746|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20746|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
     },
     "PVSR|25937|20260720|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -543,6 +479,70 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
+    },
+    "PBRM|22301|20260720|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PBRM|22301|20260720|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PBRM|22302|20260720|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PBRM|22302|20260720|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "FMCN|103427|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103427|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
+    },
+    "FMCN|103429|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103429|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
     },
     "PSKL|21848|20260720|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
