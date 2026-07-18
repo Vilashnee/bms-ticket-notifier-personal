@@ -95,6 +95,38 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
+    },
+    "FMCN|103427|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103427|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
+    },
+    "FMCN|103429|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103429|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
     }
   },
   "dates": {
