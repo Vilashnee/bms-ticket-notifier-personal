@@ -159,6 +159,22 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "3"
+    },
+    "PGMV|20692|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20692|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
     }
   },
   "dates": {
