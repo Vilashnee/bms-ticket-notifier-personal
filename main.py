@@ -608,10 +608,6 @@ def main():
     else:
         print("  ✅ No changes since last check.")
 
-    # Always send a check-in email regardless of changes
-    checkin_msg = f"BMS Checker ran successfully - {len(filtered)} shows found"
-    send_email(checkin_msg, [], filtered, movie_info)
-
     # Print current status
     print(f"\n  Current status ({len(filtered)} shows):")
     for s in filtered:
