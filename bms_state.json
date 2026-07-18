@@ -192,6 +192,22 @@
       "price": "66.74",
       "status": "2"
     },
+    "INTO|87909|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87909|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
     "INTO|87859|20260720|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
       "time": "12:05 PM",
@@ -203,6 +219,22 @@
     "INTO|87859|20260720|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
       "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87910|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87910|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
       "date": "20260720",
       "cat": "EXECUTIVE",
       "price": "61.74",
@@ -272,6 +304,102 @@
       "price": "61.74",
       "status": "3"
     },
+    "PVSR|25937|20260720|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVSR|25937|20260720|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "PREMIUM",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PVSR|25937|20260720|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|25937|20260720|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVSR|25938|20260720|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:10 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVSR|25938|20260720|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:10 PM",
+      "date": "20260720",
+      "cat": "PREMIUM",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PVSR|25938|20260720|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:10 PM",
+      "date": "20260720",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|25938|20260720|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "03:10 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVSR|25939|20260720|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:50 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVSR|25939|20260720|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:50 PM",
+      "date": "20260720",
+      "cat": "PREMIUM",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PVSR|25939|20260720|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:50 PM",
+      "date": "20260720",
+      "cat": "ECONOMY",
+      "price": "190.00",
+      "status": "3"
+    },
+    "PVSR|25939|20260720|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "06:50 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
     "PGMV|20744|20260720|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "12:00 PM",
@@ -334,7 +462,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "66.74",
-      "status": "3"
+      "status": "0"
     }
   },
   "dates": {
