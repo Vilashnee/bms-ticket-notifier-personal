@@ -192,6 +192,70 @@
       "price": "66.74",
       "status": "2"
     },
+    "INTO|87859|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87859|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87860|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87860|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PABC|20257|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "11:45 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20257|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "11:45 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PABC|20258|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:25 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20258|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "03:25 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PABC|20247|20260720|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
       "time": "06:20 PM",
@@ -222,7 +286,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "0"
     },
     "PGMV|20692|20260720|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -235,6 +299,22 @@
     "PGMV|20692|20260720|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20746|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20746|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
