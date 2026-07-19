@@ -38,7 +38,7 @@
       "date": "20260720",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|41563|20260720|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -384,6 +384,54 @@
       "price": "61.74",
       "status": "0"
     },
+    "PGMV|20744|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20744|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20692|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20692|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20746|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20746|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
     "PVSR|25937|20260720|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "11:30 AM",
@@ -479,54 +527,6 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
-    },
-    "PGMV|20744|20260720|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "12:00 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGMV|20744|20260720|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "12:00 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PGMV|20692|20260720|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGMV|20692|20260720|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "03:50 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PGMV|20746|20260720|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "06:45 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGMV|20746|20260720|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "06:45 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
     },
     "PBRM|22301|20260720|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -656,38 +656,6 @@
       "price": "66.74",
       "status": "0"
     },
-    "INPR|63425|20260720|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INPR|63425|20260720|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "1"
-    },
-    "INPR|63430|20260720|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INPR|63430|20260720|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "1"
-    },
     "PVPZ|35545|20260720|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "11:05 AM",
@@ -735,15 +703,63 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
+    },
+    "INPR|63425|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63425|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "INPR|63430|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63430|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "INPR|63426|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63426|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
     }
   },
   "dates": {
-    "20260719": "AVAILABLE",
     "20260720": "BOOKABLE",
     "20260721": "AVAILABLE",
     "20260722": "AVAILABLE",
     "20260723": "NOT_OPEN",
     "20260724": "NOT_OPEN",
-    "20260725": "NOT_OPEN"
+    "20260725": "NOT_OPEN",
+    "20260726": "NOT_OPEN"
   }
 }
