@@ -144,6 +144,70 @@
       "price": "61.74",
       "status": "2"
     },
+    "INTO|87909|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87909|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|87859|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87859|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|87910|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87910|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|87860|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87860|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
     "PVES|31697|20260720|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "11:50 AM",
@@ -221,70 +285,6 @@
       "time": "06:45 PM",
       "date": "20260720",
       "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87909|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87909|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87859|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "12:05 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87859|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "12:05 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87910|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87910|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "3"
-    },
-    "INTO|87860|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:40 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87860|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:40 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
       "price": "61.74",
       "status": "3"
     },
