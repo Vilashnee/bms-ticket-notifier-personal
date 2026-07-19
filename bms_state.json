@@ -336,6 +336,54 @@
       "price": "61.74",
       "status": "0"
     },
+    "PGRA|21138|20260720|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "11:50 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21138|20260720|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "11:50 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGRA|21139|20260720|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "03:30 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21139|20260720|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "03:30 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGRA|21158|20260720|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21158|20260720|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
     "PGMV|20744|20260720|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "12:00 PM",
@@ -480,6 +528,54 @@
       "price": "61.74",
       "status": "3"
     },
+    "PVHC|30189|20260720|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHC|30189|20260720|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVHC|30187|20260720|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHC|30187|20260720|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVHC|30190|20260720|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHC|30190|20260720|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
     "PBRM|22301|20260720|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
       "time": "03:05 PM",
@@ -559,102 +655,6 @@
       "cat": "CLASSIC",
       "price": "66.74",
       "status": "0"
-    },
-    "PGRA|21138|20260720|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "11:50 AM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGRA|21138|20260720|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "11:50 AM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PGRA|21139|20260720|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "03:30 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGRA|21139|20260720|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "03:30 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PGRA|21158|20260720|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PGRA|21158|20260720|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PVHC|30189|20260720|PRIME": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "11:00 AM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVHC|30189|20260720|CLASSIC": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "11:00 AM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "2"
-    },
-    "PVHC|30187|20260720|PRIME": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:05 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVHC|30187|20260720|CLASSIC": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:05 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "2"
-    },
-    "PVHC|30190|20260720|PRIME": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "06:00 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVHC|30190|20260720|CLASSIC": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "06:00 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "2"
     },
     "PVPZ|35545|20260720|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
