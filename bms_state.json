@@ -38,7 +38,7 @@
       "date": "20260720",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|41563|20260720|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -670,7 +670,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "1"
+      "status": "2"
     },
     "INPR|63430|20260720|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
