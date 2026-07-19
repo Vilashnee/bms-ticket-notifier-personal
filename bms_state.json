@@ -64,6 +64,70 @@
       "price": "61.74",
       "status": "3"
     },
+    "INTO|87909|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87909|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|87859|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87859|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|87910|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87910|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|87860|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87860|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
     "PVHR|39427|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "11:30 AM",
@@ -143,70 +207,6 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "2"
-    },
-    "INTO|87909|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87909|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "0"
-    },
-    "INTO|87859|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "12:05 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87859|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "12:05 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "0"
-    },
-    "INTO|87910|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87910|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "0"
-    },
-    "INTO|87860|20260720|CLUB": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:40 PM",
-      "date": "20260720",
-      "cat": "CLUB",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INTO|87860|20260720|EXECUTIVE": {
-      "venue": "INOX: The Marina Mall, OMR",
-      "time": "03:40 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "61.74",
-      "status": "0"
     },
     "PVES|31697|20260720|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -559,6 +559,150 @@
       "cat": "CLASSIC",
       "price": "66.74",
       "status": "0"
+    },
+    "PGRA|21138|20260720|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "11:50 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21138|20260720|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "11:50 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PGRA|21139|20260720|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "03:30 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21139|20260720|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "03:30 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PGRA|21158|20260720|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGRA|21158|20260720|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVHC|30189|20260720|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHC|30189|20260720|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVHC|30187|20260720|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHC|30187|20260720|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVHC|30190|20260720|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHC|30190|20260720|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVPZ|35545|20260720|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:05 AM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVPZ|35545|20260720|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:05 AM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVPZ|35546|20260720|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "02:45 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVPZ|35546|20260720|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "02:45 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVPZ|35547|20260720|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:25 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVPZ|35547|20260720|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:25 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
     }
   },
   "dates": {
