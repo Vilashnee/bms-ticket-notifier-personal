@@ -718,7 +718,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "2"
+      "status": "1"
     },
     "INPR|63430|20260720|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -734,7 +734,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "1"
     }
   },
   "dates": {
