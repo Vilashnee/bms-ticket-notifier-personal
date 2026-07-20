@@ -158,7 +158,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39416|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -384,6 +384,54 @@
       "price": "61.74",
       "status": "0"
     },
+    "INPR|63425|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63425|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "INPR|63430|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63430|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "03:15 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "INPR|63426|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63426|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
     "PVSR|25937|20260720|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "11:30 AM",
@@ -592,6 +640,54 @@
       "price": "66.74",
       "status": "2"
     },
+    "PVPZ|35545|20260720|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:05 AM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVPZ|35545|20260720|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:05 AM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVPZ|35546|20260720|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "02:45 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVPZ|35546|20260720|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "02:45 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVPZ|35547|20260720|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:25 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVPZ|35547|20260720|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:25 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
     "PVHC|30189|20260720|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "11:00 AM",
@@ -655,102 +751,6 @@
       "cat": "CLASSIC",
       "price": "66.74",
       "status": "0"
-    },
-    "INPR|63425|20260720|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INPR|63425|20260720|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:30 AM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "2"
-    },
-    "INPR|63430|20260720|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INPR|63430|20260720|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "03:15 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "1"
-    },
-    "INPR|63426|20260720|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "06:20 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "INPR|63426|20260720|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "06:20 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "1"
-    },
-    "PVPZ|35545|20260720|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:05 AM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVPZ|35545|20260720|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:05 AM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PVPZ|35546|20260720|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "02:45 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVPZ|35546|20260720|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "02:45 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PVPZ|35547|20260720|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "06:25 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PVPZ|35547|20260720|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "06:25 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
     }
   },
   "dates": {
