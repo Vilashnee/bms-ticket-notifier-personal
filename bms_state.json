@@ -1,100 +1,20 @@
 {
   "shows": {
-    "PABC|20318|20260723|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "09:00 AM",
+    "PVPZ|35652|20260723|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "PRIME",
+      "cat": "ELITE",
       "price": "183.80",
       "status": "3"
     },
-    "PABC|20318|20260723|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "09:00 AM",
+    "PVPZ|35652|20260723|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "CLASSIC",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "3"
-    },
-    "PABC|20323|20260723|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PABC|20323|20260723|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PABC|20312|20260723|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "09:30 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "2"
-    },
-    "PABC|20312|20260723|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "09:30 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "3"
-    },
-    "INCH|79208|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79208|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79213|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79213|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79219|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79219|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
     },
     "INPR|63494|20260723|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -392,6 +312,54 @@
       "price": "54.35",
       "status": "0"
     },
+    "PABC|20318|20260723|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PABC|20318|20260723|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "3"
+    },
+    "PABC|20323|20260723|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PABC|20323|20260723|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PABC|20312|20260723|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "2"
+    },
+    "PABC|20312|20260723|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "3"
+    },
     "FMCN|103480|20260723|SILVER": {
       "venue": "INOX National: Arcot Road",
       "time": "09:00 AM",
@@ -453,6 +421,54 @@
       "time": "09:20 AM",
       "date": "20260723",
       "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INCH|79208|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79208|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INCH|79213|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79213|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INCH|79219|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79219|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Executive",
       "price": "54.35",
       "status": "0"
     },
