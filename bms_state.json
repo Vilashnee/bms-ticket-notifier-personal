@@ -198,7 +198,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31788|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -206,7 +206,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31800|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -246,7 +246,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31787|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -326,7 +326,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PVSR|26030|20260723|PREMIUM": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -342,7 +342,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PVSR|26040|20260723|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -526,7 +526,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "INPR|63479|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -558,7 +558,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "INPR|63499|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -638,7 +638,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "1"
     },
     "PVHC|30250|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -663,22 +663,6 @@
       "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
-    },
-    "PVPZ|35676|20260723|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "3"
-    },
-    "PVPZ|35676|20260723|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "3"
     },
     "PVPZ|35652|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -791,6 +775,22 @@
       "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
+    },
+    "PCAN|41861|20260723|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PCAN|41861|20260723|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "3"
     },
     "PCAN|41869|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
