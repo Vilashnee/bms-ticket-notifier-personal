@@ -32,6 +32,54 @@
       "price": "54.35",
       "status": "3"
     },
+    "INCH|79208|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79208|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INCH|79213|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79213|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INCH|79219|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79219|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "0"
+    },
     "PVHR|39448|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "09:00 AM",
@@ -93,54 +141,6 @@
       "time": "09:10 AM",
       "date": "20260723",
       "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79208|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79208|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79213|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79213|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79219|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79219|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "Executive",
       "price": "54.35",
       "status": "0"
     },
