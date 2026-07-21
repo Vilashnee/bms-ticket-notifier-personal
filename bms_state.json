@@ -334,7 +334,7 @@
       "date": "20260723",
       "cat": "PREMIUM",
       "price": "173.00",
-      "status": "3"
+      "status": "0"
     },
     "PVSR|26030|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -574,7 +574,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "INPR|63474|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -590,7 +590,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "INPR|63508|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -606,7 +606,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "INPR|63469|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -632,13 +632,29 @@
       "price": "54.35",
       "status": "3"
     },
+    "PVHC|30247|20260723|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "2"
+    },
+    "PVHC|30247|20260723|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
     "PVHC|30264|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "09:05 AM",
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "1"
     },
     "PVHC|30264|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -646,7 +662,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "PVHC|30250|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -782,7 +798,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PCAN|41855|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -851,6 +867,22 @@
     "PCAN|41869|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "2"
+    },
+    "PCAN|41860|20260723|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PCAN|41860|20260723|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:25 AM",
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
