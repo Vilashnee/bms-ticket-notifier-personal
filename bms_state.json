@@ -32,6 +32,70 @@
       "price": "54.35",
       "status": "3"
     },
+    "PVHR|39448|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PVHR|39448|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "1"
+    },
+    "PVHR|39458|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PVHR|39458|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PVHR|39453|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PVHR|39453|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "1"
+    },
+    "PVHR|39462|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PVHR|39462|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
     "INCH|79208|20260723|Club": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:00 AM",
@@ -80,70 +144,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "PVHR|39448|20260723|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PVHR|39448|20260723|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "1"
-    },
-    "PVHR|39458|20260723|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PVHR|39458|20260723|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "1"
-    },
-    "PVHR|39453|20260723|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PVHR|39453|20260723|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "1"
-    },
-    "PVHR|39462|20260723|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PVHR|39462|20260723|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
     "PSKL|21922|20260723|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "09:00 AM",
@@ -175,6 +175,22 @@
       "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
+    },
+    "PSKL|21908|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PSKL|21908|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "2"
     }
   },
   "dates": {
