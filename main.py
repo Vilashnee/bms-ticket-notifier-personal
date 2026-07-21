@@ -52,7 +52,7 @@ DATE_STYLE_MAP = {
 }
 
 TIME_PERIODS = {
-    "morning":   (600, 1200),
+    "morning":   (900, 1000),
     "afternoon": (1200, 1600),
     "evening":   (1600, 1900),
     "night":     (1900, 2400),
