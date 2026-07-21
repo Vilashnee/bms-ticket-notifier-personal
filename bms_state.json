@@ -734,7 +734,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30247|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -846,7 +846,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|35661|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -984,6 +984,22 @@
       "price": "54.35",
       "status": "0"
     },
+    "PCAN|41874|20260723|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PCAN|41874|20260723|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "3"
+    },
     "PCAN|41861|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "09:15 AM",
@@ -1006,7 +1022,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PCAN|41869|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -1015,6 +1031,22 @@
       "cat": "CLASSIC",
       "price": "54.35",
       "status": "2"
+    },
+    "PCAN|41860|20260723|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PCAN|41860|20260723|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "3"
     }
   },
   "dates": {
