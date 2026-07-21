@@ -128,6 +128,22 @@
       "price": "54.35",
       "status": "0"
     },
+    "PBRM|22394|20260723|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "3"
+    },
+    "PBRM|22394|20260723|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "3"
+    },
     "INCH|79208|20260723|Club": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:00 AM",
@@ -150,7 +166,7 @@
       "date": "20260723",
       "cat": "Club",
       "price": "183.80",
-      "status": "3"
+      "status": "1"
     },
     "INCH|79213|20260723|Executive": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
@@ -159,6 +175,22 @@
       "cat": "Executive",
       "price": "54.35",
       "status": "0"
+    },
+    "INCH|79219|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "3"
+    },
+    "INCH|79219|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "3"
     }
   },
   "dates": {
