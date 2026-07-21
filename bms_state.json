@@ -32,38 +32,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "PGMV|20760|20260723|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|20760|20260723|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|20759|20260723|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:45 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|20759|20260723|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:45 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
     "PABC|20323|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
       "time": "09:10 AM",
@@ -80,21 +48,21 @@
       "price": "54.35",
       "status": "0"
     },
-    "PBRM|22391|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
+    "PABC|20312|20260723|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:30 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "3"
     },
-    "PBRM|22391|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
+    "PABC|20312|20260723|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "09:30 AM",
       "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "3"
     },
     "PVHR|39448|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -102,7 +70,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39448|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -150,7 +118,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39462|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -158,7 +126,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "INCH|79208|20260723|Club": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
@@ -208,13 +176,29 @@
       "price": "54.35",
       "status": "0"
     },
+    "PSKL|21922|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "2"
+    },
+    "PSKL|21922|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "3"
+    },
     "PSKL|21903|20260723|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "09:05 AM",
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "1"
     },
     "PSKL|21903|20260723|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -222,7 +206,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
