@@ -222,7 +222,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31800|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -693,6 +693,22 @@
       "time": "09:20 AM",
       "date": "20260723",
       "cat": "BUDGET",
+      "price": "54.35",
+      "status": "3"
+    },
+    "PCAN|41864|20260723|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PCAN|41864|20260723|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "3"
     }
