@@ -166,7 +166,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63508|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -238,7 +238,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39628|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -974,7 +974,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26087|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
