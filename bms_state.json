@@ -54,7 +54,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "INPR|63474|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -1027,6 +1027,22 @@
     "ACTN|44291|20260723|PEARL": {
       "venue": "AGS Cinemas: T. Nagar",
       "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACTN|44290|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "1"
+    },
+    "ACTN|44290|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:25 AM",
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
