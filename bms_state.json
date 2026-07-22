@@ -142,7 +142,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|35661|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -206,7 +206,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "FMCN|103480|20260723|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -710,7 +710,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|41879|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -967,70 +967,6 @@
       "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
-    },
-    "PBRM|22391|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PBRM|22391|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22400|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PBRM|22400|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22394|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PBRM|22394|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22405|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:25 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PBRM|22405|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:25 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "1"
     }
   },
   "dates": {
