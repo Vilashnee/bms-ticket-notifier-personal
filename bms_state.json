@@ -38,7 +38,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "1"
+      "status": "0"
     },
     "AGSM|54689|20260723|PEARL": {
       "venue": "AGS Cinemas: Maduravoyal",
@@ -150,7 +150,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63633|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -374,7 +374,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "1"
+      "status": "0"
     },
     "ACON|46006|20260723|PEARL": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -382,7 +382,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "0"
+      "status": "1"
     },
     "ACON|46016|20260723|DIAMOND": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -390,7 +390,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "1"
+      "status": "0"
     },
     "ACON|46016|20260723|PEARL": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -398,7 +398,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41854|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -1470,7 +1470,7 @@
       "date": "20260723",
       "cat": "Club",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "INCH|79218|20260723|Executive": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
