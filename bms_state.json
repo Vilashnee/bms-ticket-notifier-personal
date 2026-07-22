@@ -80,134 +80,6 @@
       "price": "54.35",
       "status": "3"
     },
-    "INPR|63479|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63479|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63494|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63494|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "1"
-    },
-    "INPR|63499|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63499|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63474|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63474|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63489|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63489|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63508|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63508|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63469|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63469|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63484|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63484|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "2"
-    },
     "PVES|31789|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "09:00 AM",
@@ -421,6 +293,70 @@
       "time": "09:20 AM",
       "date": "20260723",
       "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "FMCN|103480|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "0"
+    },
+    "FMCN|103480|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "FMCN|103485|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "0"
+    },
+    "FMCN|103485|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "FMCN|103475|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "0"
+    },
+    "FMCN|103475|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "1"
+    },
+    "FMCN|103490|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "0"
+    },
+    "FMCN|103490|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
       "price": "54.35",
       "status": "0"
     },
