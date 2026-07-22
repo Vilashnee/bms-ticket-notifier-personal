@@ -983,22 +983,6 @@
       "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
-    },
-    "PVHR|39448|20260723|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PVHR|39448|20260723|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "2"
     }
   },
   "dates": {
