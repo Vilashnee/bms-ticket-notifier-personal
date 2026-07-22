@@ -38,7 +38,7 @@
       "date": "20260723",
       "cat": "CLUB",
       "price": "183.80",
-      "status": "1"
+      "status": "2"
     },
     "INTO|87970|20260723|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -46,7 +46,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "1"
+      "status": "3"
     },
     "INTO|87980|20260723|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -198,7 +198,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|35676|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -206,7 +206,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PVPZ|35671|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -214,7 +214,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "0"
     },
     "PVPZ|35671|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -222,7 +222,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "PVPZ|35652|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -230,7 +230,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|35652|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -238,7 +238,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "PVPZ|35661|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -246,7 +246,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|35661|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -254,7 +254,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "PVPZ|35681|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -286,7 +286,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|35647|20260723|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -294,7 +294,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVPZ|35647|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -526,7 +526,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30247|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -582,7 +582,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30260|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -726,7 +726,7 @@
       "date": "20260723",
       "cat": "Club",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "INCH|79219|20260723|Executive": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
@@ -1006,7 +1006,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PVSR|26030|20260723|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1118,7 +1118,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39462|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -1134,7 +1134,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39474|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
