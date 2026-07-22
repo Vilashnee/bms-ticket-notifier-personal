@@ -1,21 +1,5 @@
 {
   "shows": {
-    "INPR|63633|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63633|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
     "PVHR|39448|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "09:00 AM",
@@ -62,7 +46,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVHR|39458|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -686,7 +670,7 @@
       "date": "20260723",
       "cat": "PREMIUM",
       "price": "173.00",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26030|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -808,6 +792,86 @@
       "price": "54.35",
       "status": "0"
     },
+    "PSKL|21922|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21922|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21924|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21924|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21903|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21903|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21908|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21908|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21911|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21911|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
     "PVHC|30247|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "09:00 AM",
@@ -920,86 +984,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "PSKL|21922|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PSKL|21922|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PSKL|21924|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PSKL|21924|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "1"
-    },
-    "PSKL|21903|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PSKL|21903|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PSKL|21908|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PSKL|21908|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PSKL|21911|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PSKL|21911|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
     "PGMV|20770|20260723|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "09:00 AM",
@@ -1038,7 +1022,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|20852|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
