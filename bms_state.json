@@ -278,7 +278,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVPZ|35666|20260723|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -742,7 +742,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PSKL|21903|20260723|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -846,7 +846,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "PVHC|30255|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -854,7 +854,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PVHC|30381|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -878,7 +878,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30260|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -1166,7 +1166,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "PVHR|39628|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -1174,7 +1174,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PVHR|39458|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
