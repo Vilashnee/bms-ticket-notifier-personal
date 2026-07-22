@@ -1,12 +1,76 @@
 {
   "shows": {
+    "AGSM|54683|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "AGSM|54683|20260723|PEARL": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "AGSM|54684|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "AGSM|54684|20260723|PEARL": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "AGSM|54689|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "1"
+    },
+    "AGSM|54689|20260723|PEARL": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "AGSM|54688|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:45 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "1"
+    },
+    "AGSM|54688|20260723|PEARL": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "09:45 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "1"
+    },
     "INPR|63479|20260723|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "09:00 AM",
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63479|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -86,7 +150,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63633|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -102,7 +166,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63508|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -878,7 +942,7 @@
       "date": "20260723",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "FMCN|103485|20260723|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -910,7 +974,7 @@
       "date": "20260723",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "FMCN|103490|20260723|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -1094,7 +1158,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PSKL|21924|20260723|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
