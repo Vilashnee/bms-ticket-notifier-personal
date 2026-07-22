@@ -304,6 +304,22 @@
       "price": "54.35",
       "status": "0"
     },
+    "INTO|88099|20260723|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLUB",
+      "price": "183.80",
+      "status": "3"
+    },
+    "INTO|88099|20260723|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "3"
+    },
     "INTO|87970|20260723|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
       "time": "09:05 AM",
@@ -438,7 +454,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31942|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -670,7 +686,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVSR|26040|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -830,7 +846,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "3"
     },
     "PVHC|30381|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -838,7 +854,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PVHC|30260|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
