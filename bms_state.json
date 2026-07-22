@@ -22,7 +22,7 @@
       "date": "20260723",
       "cat": "CLUB",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "INTO|87975|20260723|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -30,7 +30,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "INTO|87970|20260723|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -102,7 +102,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31794|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -742,7 +742,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63469|20260723|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -798,7 +798,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "PCAN|41855|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -1054,7 +1054,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|22391|20260723|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
