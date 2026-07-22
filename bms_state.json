@@ -1,5 +1,85 @@
 {
   "shows": {
+    "INTO|87965|20260723|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLUB",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INTO|87965|20260723|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INTO|87975|20260723|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLUB",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INTO|87975|20260723|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "1"
+    },
+    "INTO|87970|20260723|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "CLUB",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INTO|87970|20260723|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "2"
+    },
+    "INTO|87980|20260723|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "CLUB",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INTO|87980|20260723|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "3"
+    },
+    "INTO|87985|20260723|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLUB",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INTO|87985|20260723|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "3"
+    },
     "PVES|31789|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "09:00 AM",
@@ -486,7 +566,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30250|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -502,7 +582,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30260|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -510,7 +590,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30245|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -982,7 +1062,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39466|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -1030,7 +1110,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39462|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
