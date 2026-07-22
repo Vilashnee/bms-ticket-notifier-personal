@@ -366,7 +366,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "ACON|46006|20260723|DIAMOND": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -1126,7 +1126,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "2"
+      "status": "1"
     },
     "FMCN|103480|20260723|SILVER": {
       "venue": "INOX National: Arcot Road",
