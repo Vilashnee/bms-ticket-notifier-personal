@@ -6,7 +6,7 @@
       "date": "20260723",
       "cat": "CLUB",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "INTO|87965|20260723|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -14,7 +14,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "INTO|87975|20260723|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -54,7 +54,7 @@
       "date": "20260723",
       "cat": "CLUB",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "INTO|87980|20260723|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -62,7 +62,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "INTO|87985|20260723|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -70,7 +70,7 @@
       "date": "20260723",
       "cat": "CLUB",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "INTO|87985|20260723|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -78,7 +78,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31789|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -454,7 +454,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "PGRA|21290|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -462,7 +462,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PGRA|21221|20260723|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -717,134 +717,6 @@
       "time": "09:10 AM",
       "date": "20260723",
       "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63479|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63479|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63494|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63494|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63499|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63499|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63474|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63474|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63489|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63489|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63508|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63508|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63469|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63469|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63484|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63484|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
@@ -1160,67 +1032,67 @@
       "price": "54.35",
       "status": "0"
     },
-    "PBRM|22391|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
+    "PVHR|39448|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PBRM|22391|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
+    "PVHR|39448|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
-    "PBRM|22400|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
+    "PVHR|39458|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:05 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "1"
     },
-    "PBRM|22400|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
+    "PVHR|39458|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:05 AM",
       "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
-    "PBRM|22394|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:15 AM",
+    "PVHR|39453|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PBRM|22394|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:15 AM",
+    "PVHR|39453|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
-    "PBRM|22405|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:25 AM",
+    "PVHR|39462|20260723|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "2"
     },
-    "PBRM|22405|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:25 AM",
+    "PVHR|39462|20260723|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:10 AM",
       "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "1"
     }
