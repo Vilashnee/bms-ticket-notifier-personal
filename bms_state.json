@@ -790,7 +790,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31788|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -863,6 +863,86 @@
       "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
+    },
+    "ACVM|54395|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54395|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "1"
+    },
+    "ACVM|54397|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54397|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "2"
+    },
+    "ACVM|54396|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54396|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "3"
+    },
+    "ACVM|54394|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54394|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "3"
+    },
+    "ACVM|54393|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACVM|54393|20260723|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "3"
     },
     "PVSR|26035|20260723|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -983,6 +1063,70 @@
       "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
+    },
+    "ACTN|44284|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACTN|44284|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
+    "ACTN|44291|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "0"
+    },
+    "ACTN|44291|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "1"
+    },
+    "ACTN|44290|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "1"
+    },
+    "ACTN|44290|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "1"
+    },
+    "ACTN|44289|20260723|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "1"
+    },
+    "ACTN|44289|20260723|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "09:30 AM",
+      "date": "20260723",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "1"
     },
     "FMCN|103480|20260723|SILVER": {
       "venue": "INOX National: Arcot Road",
