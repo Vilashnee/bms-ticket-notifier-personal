@@ -534,7 +534,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|20760|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -654,7 +654,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41855|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -790,7 +790,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "1"
     },
     "PABC|20393|20260723|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -798,7 +798,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PABC|20313|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -934,7 +934,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26040|20260723|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1014,7 +1014,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39453|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -1062,7 +1062,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     }
   },
   "dates": {
