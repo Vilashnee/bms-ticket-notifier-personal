@@ -566,7 +566,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31800|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -630,7 +630,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVSR|26035|20260723|PREMIUM": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -662,7 +662,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26043|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -966,7 +966,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "FMCN|103480|20260723|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -990,7 +990,7 @@
       "date": "20260723",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "FMCN|103485|20260723|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -1262,7 +1262,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PSKL|21911|20260723|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -1270,7 +1270,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20318|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -1318,7 +1318,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PABC|20323|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
