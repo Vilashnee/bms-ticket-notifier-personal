@@ -350,7 +350,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "ACON|46011|20260723|DIAMOND": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -894,7 +894,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "2"
+      "status": "1"
     },
     "ACVM|54396|20260723|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
@@ -910,7 +910,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "3"
+      "status": "1"
     },
     "ACVM|54394|20260723|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
@@ -926,7 +926,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "3"
+      "status": "1"
     },
     "ACVM|54393|20260723|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
@@ -942,7 +942,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "3"
+      "status": "2"
     },
     "PVSR|26035|20260723|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1110,7 +1110,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "ACTN|44289|20260723|DIAMOND": {
       "venue": "AGS Cinemas: T. Nagar",
@@ -1118,7 +1118,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "1"
+      "status": "0"
     },
     "ACTN|44289|20260723|PEARL": {
       "venue": "AGS Cinemas: T. Nagar",
