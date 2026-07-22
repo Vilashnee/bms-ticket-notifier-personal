@@ -38,7 +38,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "0"
+      "status": "1"
     },
     "AGSM|54689|20260723|PEARL": {
       "venue": "AGS Cinemas: Maduravoyal",
@@ -342,7 +342,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "1"
+      "status": "0"
     },
     "ACON|46001|20260723|PEARL": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -382,7 +382,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "ACON|46016|20260723|DIAMOND": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -1470,7 +1470,7 @@
       "date": "20260723",
       "cat": "Club",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INCH|79218|20260723|Executive": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
