@@ -910,7 +910,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "ACVM|54394|20260723|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
@@ -1198,7 +1198,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|20770|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
