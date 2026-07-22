@@ -894,7 +894,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "ACVM|54396|20260723|DIAMOND": {
       "venue": "AGS Cinemas: Villivakkam",
@@ -942,7 +942,7 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26035|20260723|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1126,6 +1126,70 @@
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
+      "status": "0"
+    },
+    "FMCN|103480|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "0"
+    },
+    "FMCN|103480|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "1"
+    },
+    "FMCN|103485|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "0"
+    },
+    "FMCN|103485|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "FMCN|103475|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "1"
+    },
+    "FMCN|103475|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "FMCN|103490|20260723|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "SILVER",
+      "price": "183.80",
+      "status": "1"
+    },
+    "FMCN|103490|20260723|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "PREMIERE",
+      "price": "54.35",
       "status": "0"
     },
     "PGMV|20770|20260723|PRIME": {
