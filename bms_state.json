@@ -6,7 +6,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31789|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -22,7 +22,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31794|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -390,7 +390,7 @@
       "date": "20260723",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "FMCN|103485|20260723|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -614,7 +614,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30264|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -718,7 +718,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "0"
     },
     "PGMV|20852|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -726,7 +726,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "PGMV|20760|20260723|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -806,7 +806,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20323|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
