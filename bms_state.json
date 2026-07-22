@@ -6,7 +6,7 @@
       "date": "20260723",
       "cat": "CLUB",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "INTO|87965|20260723|EXECUTIVE": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -79,6 +79,134 @@
       "cat": "EXECUTIVE",
       "price": "54.35",
       "status": "3"
+    },
+    "INPR|63479|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|63479|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|63494|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|63494|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "1"
+    },
+    "INPR|63499|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|63499|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|63474|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|63474|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|63489|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INPR|63489|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|63508|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INPR|63508|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|63469|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|63469|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|63484|20260723|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "INPR|63484|20260723|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "2"
     },
     "PVES|31789|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -192,83 +320,107 @@
       "price": "54.35",
       "status": "0"
     },
-    "PSKL|21922|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26035|20260723|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "PRIME",
+      "cat": "ELITE",
       "price": "183.80",
       "status": "0"
     },
-    "PSKL|21922|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26035|20260723|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "CLASSIC",
+      "cat": "PREMIUM",
+      "price": "173.00",
+      "status": "0"
+    },
+    "PVSR|26035|20260723|ECONOMY": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "ECONOMY",
+      "price": "163.00",
+      "status": "0"
+    },
+    "PVSR|26035|20260723|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
-    "PSKL|21924|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PSKL|21924|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PSKL|21903|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26043|20260723|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:05 AM",
       "date": "20260723",
-      "cat": "PRIME",
+      "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
-    "PSKL|21903|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26043|20260723|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:05 AM",
       "date": "20260723",
-      "cat": "CLASSIC",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
-    "PSKL|21908|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26048|20260723|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:10 AM",
       "date": "20260723",
-      "cat": "PRIME",
+      "cat": "ELITE",
       "price": "183.80",
       "status": "0"
     },
-    "PSKL|21908|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26048|20260723|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:10 AM",
       "date": "20260723",
-      "cat": "CLASSIC",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
-    "PSKL|21911|20260723|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26030|20260723|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:15 AM",
       "date": "20260723",
-      "cat": "PRIME",
+      "cat": "ELITE",
       "price": "183.80",
       "status": "0"
     },
-    "PSKL|21911|20260723|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+    "PVSR|26030|20260723|PREMIUM": {
+      "venue": "PVR: Sathyam, Royapettah",
       "time": "09:15 AM",
       "date": "20260723",
-      "cat": "CLASSIC",
+      "cat": "PREMIUM",
+      "price": "173.00",
+      "status": "0"
+    },
+    "PVSR|26030|20260723|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PVSR|26040|20260723|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PVSR|26040|20260723|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:20 AM",
+      "date": "20260723",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
@@ -347,6 +499,86 @@
     "PGRA|21213|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "09:25 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21922|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21922|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21924|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21924|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21903|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PSKL|21903|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:05 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21908|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21908|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:10 AM",
+      "date": "20260723",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PSKL|21911|20260723|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:15 AM",
+      "date": "20260723",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PSKL|21911|20260723|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "09:15 AM",
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
@@ -454,7 +686,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "3"
     },
     "PGMV|20765|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -462,7 +694,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "3"
     },
     "PGMV|20760|20260723|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -493,198 +725,6 @@
       "time": "09:45 AM",
       "date": "20260723",
       "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79208|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INCH|79208|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79218|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79218|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79213|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79213|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|79219|20260723|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INCH|79219|20260723|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63479|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63479|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63494|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63494|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "1"
-    },
-    "INPR|63499|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63499|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63474|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63474|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63489|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63489|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63508|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63508|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63469|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|63469|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|63484|20260723|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|63484|20260723|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
@@ -768,107 +808,67 @@
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|26035|20260723|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "INCH|79208|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "Club",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
-    "PVSR|26035|20260723|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "INCH|79208|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:00 AM",
       "date": "20260723",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|26035|20260723|ECONOMY": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ECONOMY",
-      "price": "163.00",
-      "status": "0"
-    },
-    "PVSR|26035|20260723|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "Executive",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|26043|20260723|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "INCH|79218|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Club",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INCH|79218|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
+      "time": "09:00 AM",
+      "date": "20260723",
+      "cat": "Executive",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INCH|79213|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:05 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "Club",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|26043|20260723|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "INCH|79213|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:05 AM",
       "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "Executive",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|26048|20260723|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "INCH|79219|20260723|Club": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:10 AM",
       "date": "20260723",
-      "cat": "ELITE",
+      "cat": "Club",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|26048|20260723|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "INCH|79219|20260723|Executive": {
+      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "09:10 AM",
       "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PVSR|26030|20260723|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PVSR|26030|20260723|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|26030|20260723|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PVSR|26040|20260723|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:20 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PVSR|26040|20260723|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:20 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
+      "cat": "Executive",
       "price": "54.35",
       "status": "0"
     },
@@ -981,70 +981,6 @@
       "time": "09:20 AM",
       "date": "20260723",
       "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22391|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PBRM|22391|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22400|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PBRM|22400|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:00 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22394|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PBRM|22394|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:15 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PBRM|22405|20260723|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:25 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "PBRM|22405|20260723|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "09:25 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     }
