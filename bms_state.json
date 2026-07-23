@@ -294,7 +294,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "0"
+      "status": "1"
     },
     "ACON|46011|20260723|PEARL": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -1310,7 +1310,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PSKL|21924|20260723|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
