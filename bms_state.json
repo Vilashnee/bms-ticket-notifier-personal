@@ -1,21 +1,5 @@
 {
   "shows": {
-    "PVES|31787|20260723|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "09:40 AM",
-      "date": "20260723",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PVES|31787|20260723|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "09:40 AM",
-      "date": "20260723",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
     "PGMV|20759|20260723|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "09:45 AM",
