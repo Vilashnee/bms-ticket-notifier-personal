@@ -326,7 +326,7 @@
       "date": "20260723",
       "cat": "DIAMOND",
       "price": "183.00",
-      "status": "0"
+      "status": "1"
     },
     "ACON|46016|20260723|PEARL": {
       "venue": "AGS Cinemas OMR: Navlur",
@@ -379,22 +379,6 @@
     "ACVM|54396|20260723|PEARL": {
       "venue": "AGS Cinemas: Villivakkam",
       "time": "09:10 AM",
-      "date": "20260723",
-      "cat": "PEARL",
-      "price": "54.00",
-      "status": "0"
-    },
-    "ACVM|54394|20260723|DIAMOND": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "09:20 AM",
-      "date": "20260723",
-      "cat": "DIAMOND",
-      "price": "183.00",
-      "status": "0"
-    },
-    "ACVM|54394|20260723|PEARL": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "09:20 AM",
       "date": "20260723",
       "cat": "PEARL",
       "price": "54.00",
