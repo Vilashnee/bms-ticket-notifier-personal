@@ -190,7 +190,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "INPR|63484|20260723|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -286,7 +286,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39453|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -302,7 +302,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVHR|39462|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -310,7 +310,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVHR|39462|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -614,7 +614,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41855|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -622,7 +622,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|41864|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -1182,7 +1182,7 @@
       "date": "20260723",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "FMCN|103490|20260723|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -1446,7 +1446,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|22400|20260723|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
