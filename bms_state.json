@@ -262,7 +262,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVHR|39474|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -430,7 +430,7 @@
       "date": "20260723",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "INTO|87975|20260723|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -534,7 +534,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41879|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -686,7 +686,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30250|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -800,22 +800,6 @@
       "price": "54.00",
       "status": "0"
     },
-    "ACTN|44290|20260723|DIAMOND": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "09:25 AM",
-      "date": "20260723",
-      "cat": "DIAMOND",
-      "price": "183.00",
-      "status": "0"
-    },
-    "ACTN|44290|20260723|PEARL": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "09:25 AM",
-      "date": "20260723",
-      "cat": "PEARL",
-      "price": "54.00",
-      "status": "0"
-    },
     "ACTN|44289|20260723|DIAMOND": {
       "venue": "AGS Cinemas: T. Nagar",
       "time": "09:30 AM",
@@ -838,7 +822,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31789|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1398,7 +1382,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PSKL|21922|20260723|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
